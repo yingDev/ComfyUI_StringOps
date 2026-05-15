@@ -80,7 +80,7 @@ NODE_CLASS_MAPPINGS = {
     "GetCurrentTime": GetCurrentTime,
     "SimpleRandomSeed": SimpleRandomSeed,
     "SelectionParameter": SelectionParameter,
-    "ReadWebNode": ReadWebNode,
+    # "ReadWebNode": ReadWebNode,
     "DecodePreview": DecodePreview,     
 }
 
